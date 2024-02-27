@@ -19,5 +19,7 @@ public class Test4 {
 		System.out.println("ff1 :"+ff1);
 		System.out.println("ff2 :"+ff2);
 		
+		double dd3 = 5E3;
+		System.out.println("dd3 :"+dd3);
 	}
 }

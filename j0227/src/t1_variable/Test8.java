@@ -30,5 +30,4 @@ public class Test8 {
 		ss2 = (short) su;
 		System.out.println("ss2 :"+ss2);
 	}
-
 }
